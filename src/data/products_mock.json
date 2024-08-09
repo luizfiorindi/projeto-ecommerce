@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Rel\u00f3gio Elegante",
+      "price": 50.99,
+      "image": "https://images.unsplash.com/photo-1698612059658-7ca81326a140?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmVhdHVyZWQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "C\u00e2mera Vintage",
+      "price": 85.5,
+      "image": "https://images.unsplash.com/photo-1518929773866-ffd0b4500ff1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZlYXR1cmVkJTIwY2FtZXJhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido",
+      "price": 35.99,
+      "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZlYXR1cmVkJTIwaGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "T\u00eanis de Corrida",
+      "price": 120.0,
+      "image": "https://images.unsplash.com/photo-1601618752468-4682783b4e6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmVhdHVyZWQlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1518117946207-d26b51185902?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGZlYXR1cmVkJTIwc21hcnRwaG9uZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Livro de Aventura",
+      "price": 19.99,
+      "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3xlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
